@@ -1,6 +1,21 @@
 # custom-framework
 ## Documentation
 
+### Structure du projet
+
+#### App
+- Controllers
+- Models
+
+#### Ressources
+- CSS
+- JS
+- Views
+  - components
+
+#### index
+là où se situe les routes et l'intialisation des variables globales.
+
 ### base de donnée
 
 #### Query builder
